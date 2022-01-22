@@ -267,3 +267,22 @@ body {
     height: 0.25rem;
     margin: 0 auto;
   }
+  .navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
+  }
+  .nav-center{
+    width: 90vw;
+    max-width: var(--max-width);
+    background: darkcyan;
+  }
+  .nav-header{
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
